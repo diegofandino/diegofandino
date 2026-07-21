@@ -17,18 +17,18 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 I'm a **Senior Frontend Engineer & Full Stack Developer** with 8+ years of experience building scalable, secure web applications across **fintech, edtech, banking, and retail**. Lately I've been going deep on full-stack and backend architecture — RAG pipelines, database optimization, and AI agent workflows — while keeping my frontend craft sharp.
 
-- 🔭 Currently building **RAG pipelines & AI agent workflows** (OpenAI + pgvector) serving 30K+ students
-- 🌱 Deepening backend architecture: NestJS, PostgreSQL optimization, caching strategies, materialized views
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🎯 Specialized in system design, microfrontends, API architecture, and security (OWASP, OAuth2, JWT)
+- Currently building **RAG pipelines & AI agent workflows** (OpenAI + pgvector) serving 30K+ students
+- Deepening backend architecture: NestJS, PostgreSQL optimization, caching strategies, materialized views
+- **AWS Certified Cloud Practitioner**
+- Specialized in system design, microfrontends, API architecture, and security (OWASP, OAuth2, JWT)
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
