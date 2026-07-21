@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3178C6&center=true&vCenter=true&width=700&lines=React+%2B+TypeScript+%2B+NestJS+%2B+AWS;8%2B+Years+Shipping+Fintech%2C+Edtech+%26+Banking+Apps;Cali%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=React+%2B+TypeScript+%2B+NestJS+%2B+AWS;8%2B+Years+Shipping+Fintech%2C+Edtech+%26+Banking+Apps;Cali%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -76,6 +76,6 @@ I'm a **Senior Frontend Engineer & Full Stack Developer** with 8+ years of exper
 
 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/juan-diego-fandino) · diegofandino.u@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,100:00264D&height=100&section=footer" width="100%"/>
 
 </div>
